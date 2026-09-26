@@ -68,19 +68,9 @@ Through these projects, I am developing practical skills in:
 * Debugging electronic systems
 * Building and testing physical prototypes
 
----
 
-## 🔮 Future Projects
 
-Planned projects include:
 
-* 🤖 Autonomous robot
-* 🚗 Line-following robot
-* 📡 Sensor-based monitoring system
-* 🦾 Servo-based robotic system
-* 🌡️ Environmental monitoring system
-* ⚡ More Arduino + ESP32 projects
-* 🧠 Projects combining embedded systems with AI
 
 ---
 
