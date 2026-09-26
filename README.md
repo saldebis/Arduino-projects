@@ -10,5 +10,11 @@ This repository documents my hands-on experience with Arduino, electronics, embe
 
 
 Project	Description	Main Components
+
+
 💡 LED Projects	Basic LED control and programming exercises	Arduino, LEDs, Resistors
+
+
+
+
 🚦 Traffic Light	Simulates a traffic-light control system	Arduino, LEDs
