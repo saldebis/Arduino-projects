@@ -50,6 +50,6 @@ After the green light, the sequence repeats continuously.
 
 ## 🎥 Demo
 
-A demonstration video of the traffic light system can be added here.
+
 
 
