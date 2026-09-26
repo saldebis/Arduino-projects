@@ -10,8 +10,8 @@ This repository documents my hands-on experience with **Arduino, electronics, em
 
 | Project                    | Description                                 | Main Components             |
 | -------------------------- | ------------------------------------------- | --------------------------- |
-| 💡 LED Project             | Basic LED control and programming exercises | Arduino, LEDs, Resistors    |
-| 🚦 Traffic Light           | Simulates a traffic-light control system    | Arduino, LEDs               |
+| 💡 LED light            | Basic LED control and programming exercises | Arduino, LED, Resistor      |
+| 🚦 LED Traffic Light       | Simulates a traffic-light control system    | Arduino, LEDs, Resistors    |
 |                             |                                             |                             |
 |                             |                                             |                             |
 |                             |                                             |                             |
