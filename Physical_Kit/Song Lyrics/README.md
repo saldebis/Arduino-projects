@@ -40,7 +40,7 @@ A **potentiometer** is connected to the LCD to adjust the display contrast, whil
 
 ### LCD Connections
 
-| LCD Pin  Name                    | Connection                       |
+| LCD Pin | Name                    | Connection                       |
 | ------: | ----------------------- | -------------------------------- |
 |       1 | GND                     | Arduino GND                      |
 |       2 | VDD                     | Arduino 5V                       |
